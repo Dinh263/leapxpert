@@ -1,0 +1,7 @@
+robotframework
+robotframework-browser
+robotframework-appiumlibrary
+selenium==3.141.0
+robotframework-faker
+robotframework-jsonlibrary
+robotframework-requests
