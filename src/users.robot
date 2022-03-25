@@ -7,8 +7,8 @@ ${USERNAME_01}               automation_auto_2021    #please set username o1 her
 ${PASSWORD_01}               Testing@123             #please set the password of user 01 here
 
 # user 02
-${USERNAME_02}               automation_auto_2022    #please set username o1 here
-${PASSWORD_02}               Testing@123             #please set the password of user 01 here
+${USERNAME_02}               automation_auto_2022    #please set username o2 here
+${PASSWORD_02}               Testing@123             #please set the password of user 02 here
 
 
 #set value for otp login
